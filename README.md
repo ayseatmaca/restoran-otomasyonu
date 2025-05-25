@@ -43,7 +43,7 @@ TURNAM is a desktop-based restaurant automation system developed using **Python*
 
 ### 🔐 Login Page
 
-![Login Page](./1d186411-0d36-4e56-81e9-b26b1f8a3a96.png)
+![Login Page]([./1d186411-0d36-4e56-81e9-b26b1f8a3a96.png](https://github.com/ayseatmaca/restoran-otomasyonu/blob/main/Yemek/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-26%20005605.png))
 
 ### 📋 Menu Management Page
 
